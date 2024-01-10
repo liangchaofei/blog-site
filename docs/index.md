@@ -11,7 +11,7 @@ hero:
 features:
   - title: Hello
     emoji: 💎
-    description: Put hello description here
+    description: Put1 hello description here
   - title: World
     emoji: 🌈
     description: Put world description here
